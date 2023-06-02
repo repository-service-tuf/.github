@@ -1,4 +1,4 @@
-## <img src="https://github.com/repository-service-tuf/repository-service-tuf/blob/main/docs/source/_static/rstuf-logo-only-small.png" valign="middle"> Repository Service for TUF (RSTUF)
+##  Repository Service for TUF (RSTUF)
 
 Repository Service for TUF (RSTUF) is a system for securing content downloads
 from tampering between the repository and the client (for example, by an
