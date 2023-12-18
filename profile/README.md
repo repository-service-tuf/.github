@@ -4,7 +4,7 @@ Repository Service for TUF (RSTUF) is a system for securing content downloads
 from tampering between the repository and the client (for example, by an
 on-path attacker).
 
-* [Repository Service for TUF umbrella repo](https://github.com/repository-service-tuf)
+* [Repository Service for TUF umbrella repo](https://github.com/repository-service-tuf/repository-service-tuf)
 * [Repository Service for TUF documentation](https://repository-service-tuf.readthedocs.io)
 
 
