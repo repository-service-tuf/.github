@@ -10,4 +10,4 @@ on-path attacker).
 
 RSTUF is a Sandbox project sponsored by [OpenSSF Securing Software Repositories Working Group](https://github.com/ossf/wg-securing-software-repos) 
 
-<img src="https://openssf.org/wp-content/uploads/sites/132/2023/04/Layer-13.png" width="10%" height="10%">
+<img src="https://github.com/ossf/artwork/blob/master/openssf/horizontal/color/openssf-horizontal-color.png" width="10%" height="10%">
